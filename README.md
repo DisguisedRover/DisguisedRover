@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DisguisedRover
+- 👋 Hi, I’m @NirajanGaha
 - 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning Node.js
 
