@@ -12,6 +12,16 @@
 - 🌱 Expanding my **backend skills** with **Node.js & MySQL**  
 - 🤝 Open to collaborations and contributions  
 
+![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajanGaha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanGaha&layout=compact&theme=radical)
+
+### 🚀 Tech Stack  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+
 ### 📫 Get in Touch  
 - 💌 Email: [nirajan.ngn99@gmail.com](mailto:nirajan.ngn99@gmail.com)  
 - 📸 Instagram: [@nirajangaha](https://www.instagram.com/nirajangaha/)
