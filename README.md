@@ -20,12 +20,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DisguisedRover&theme=monokai&margin-w=20)
+
 ### 📫 Get in Touch  
 - 💌 Email: [nirajan.ngn99@gmail.com](mailto:nirajan.ngn99@gmail.com)  
 - 📸 Instagram: [@nirajangaha](https://www.instagram.com/nirajangaha/)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DisguisedRover&theme=dracula&margin-w=15)
-
 
 > 🚀 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 
