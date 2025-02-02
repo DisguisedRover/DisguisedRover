@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nirajan Gaha  
 
-🚀 **Passionate Developer | Flutter Enthusiast | Node.js Explorer**  
+🚀 **Passionate Learner | Flutter Enthusiast | Node.js Explorer**  
 
 ### About Me  
 - 🎯 Currently diving deep into **Node.js** for backend development  
