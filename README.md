@@ -12,9 +12,9 @@
 - 🌱 Expanding my **backend skills** with **Node.js & MySQL**  
 - 🤝 Open to collaborations and contributions  
 
-![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajanGaha&show_icons=true&theme=radical)
+![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DisguisedRover&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanGaha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DisguisedRover&layout=compact&theme=radical)
 
 ### 🚀 Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
