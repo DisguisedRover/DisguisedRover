@@ -12,9 +12,6 @@
 - 🌱 Expanding my **backend skills** with **Node.js & MySQL**  
 - 🤝 Open to collaborations and contributions  
 
-![Spotify](https://novatorem-g5mctuakxtcuflu5o4fbatgx7.vercel.app/api/spotify)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DisguisedRover&layout=compact&theme=radical)
 
 ### 🚀 Tech Stack  
