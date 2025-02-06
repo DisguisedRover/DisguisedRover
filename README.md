@@ -25,7 +25,7 @@
 ### 📫 Get in Touch  
 - 💌 Email: [nirajan.ngn99@gmail.com](mailto:nirajan.ngn99@gmail.com)  
 - 📸 Instagram: [@nirajangaha](https://www.instagram.com/nirajangaha/)
-- 💼 LinkedIn: [linkedin.com/in/nirajan-gaha](https://linkedin.com/in/nirajan-gaha)
+- 💼 LinkedIn: [linkedin.com/in/nirajan-gaha](https://linkedin.com/in/nirajan-gaha-18459a34a)
 
 > 🚀 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 
